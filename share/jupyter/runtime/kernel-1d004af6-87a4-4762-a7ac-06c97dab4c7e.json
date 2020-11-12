@@ -1,0 +1,12 @@
+{
+  "shell_port": 57757,
+  "iopub_port": 57758,
+  "stdin_port": 57759,
+  "control_port": 57761,
+  "hb_port": 57760,
+  "ip": "127.0.0.1",
+  "key": "acd5b61f-4f18214d50bf711f50cda275",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "julia-1.5"
+}
